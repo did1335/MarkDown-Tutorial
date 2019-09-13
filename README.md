@@ -2,16 +2,31 @@
 
 ## 作者:朱庭宏
 
+{% hint style="info" %}
+一本設計給初學者的網頁製作教材
 
-{% hint style="info" %} 一本設計給初學者的網頁製作教材
+做網頁也可以像使用Word一樣簡單
+{% endhint %}
 
-做網頁也可以像使用Word一樣簡單 {% endhint %}
+{% tabs %}
+{% tab title="課程介紹" %}
+{% page-ref page="ke-cheng-jie-shao.md" %}
+{% endtab %}
 
-{% tabs %} {% tab title="課程介紹" %} {% page-ref page="ke-cheng-jie-shao.md" %} {% endtab %}
+{% tab title="開發工具" %}
+{% page-ref page="kai-fa-gong-ju.md" %}
+{% endtab %}
 
-{% tab title="開發工具" %} {% page-ref page="kai-fa-gong-ju.md" %} {% endtab %}
+{% tab title="Markdown語法" %}
+{% page-ref page="markdown-yu-fa.md" %}
+{% endtab %}
 
-{% tab title="MD" %} {% page-ref page="markdown-yu-fa.md" %} {% endtab %}
+{% tab title="HTML基本語法" %}
+{% page-ref page="html-ji-ben-yu-fa.md" %}
+{% endtab %}
+{% endtabs %}
 
-{% tab title="HTML" %} {% page-ref page="html-ji-ben-yu-fa.md" %} {% endtab %} {% endtabs %}
+
+
+
 

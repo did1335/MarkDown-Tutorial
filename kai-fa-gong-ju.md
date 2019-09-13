@@ -8,14 +8,6 @@
 
 {% embed url="http://penghu.o8merm92eic2i5y1qpp6.lh.pdis.nat.gov.tw/" %}
 
-{% hint style="info" %}
-連政府也在用
-{% endhint %}
-
-
-
-
-
 ## VSCode
 
 ### **安裝網址:**[**https://code.visualstudio.com/**](https://code.visualstudio.com/)\*\*\*\*
